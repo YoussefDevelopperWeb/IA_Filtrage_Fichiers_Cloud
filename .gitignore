@@ -1,0 +1,20 @@
+# Environnement virtuel
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Variables d'environnement
+.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Uploads temporaires
+uploads/
+backend/uploads/
+
+# Dataset volumineux optionnel
+dataset/js_dataset.csv
